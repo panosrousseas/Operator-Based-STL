@@ -19,7 +19,7 @@ in each subfolder reproduces the respective figures.
 - Reference Input Negative 
 ![anim2b](./NONAFFINE/f6b.gif "anim2b")
 - Oscillating Reference Input 
-![anim2b](./NONAFFINE/f66.gif "anim2c")
+![anim2b](./NONAFFINE/f6c.gif "anim2c")
 
 
 
