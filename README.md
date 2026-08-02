@@ -11,7 +11,7 @@ in each subfolder reproduces the respective figures.
 ---
 
 ### Repeated Nested Formula for Non-Affine System 
-![anim2a](./NONAFFINE/f5 "anim2a")
+![anim2a](./NONAFFINE/f5.gif "anim2a")
 
 ### Repeated Nested Formula for Non-Affine System with Nested Disjunction
 - Reference Input Positive 
